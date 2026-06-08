@@ -2,3 +2,4 @@ instance
 student_score_model.pkl
 __pycache__/
 train.py
+studend_dummy_data_200.csv
