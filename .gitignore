@@ -1,5 +1,7 @@
-instance
-student_score_model.pkl
+.venv/
 __pycache__/
-train.py
-student_dummy_data_200.csv
+instance/
+*.pyc
+*.pkl
+.idea/
+.env
