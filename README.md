@@ -134,7 +134,8 @@ This project uses:
 ##  Author
 
 **Naveen Bamrara**
-
+linkedin:-
+https://www.linkedin.com/in/naveen-bamrara-857414260/
 Python Developer | Flask Developer | Machine Learning Enthusiast
 
 
